@@ -15,6 +15,7 @@ int main()
         break;
         case 0:
             printf("No the number = %d is not an Armstrong number ",num);
-       break; }
+       break; 
+    }
         return  0;
 }
