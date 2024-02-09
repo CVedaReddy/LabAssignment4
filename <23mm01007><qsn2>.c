@@ -24,7 +24,7 @@ int main()
         break;
         default:
         printf("the number=%d is largest",z);
-        //all equal
+      
     }}}
 
    return 0;
