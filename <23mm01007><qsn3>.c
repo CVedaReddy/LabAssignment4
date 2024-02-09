@@ -4,7 +4,7 @@ int main()
   int score;
  float balance,interest;
     printf("Enter credit score and balance ");
- scanf("%D%f",&score,&balance);
+ scanf("%d%f",&score,&balance);
     if(score<600)
    { 
     interest=0.15*balance;
